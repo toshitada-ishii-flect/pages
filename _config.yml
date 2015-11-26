@@ -16,6 +16,6 @@ baseurl: "/pages" # the subpath of your site, e.g. /blog
 url: "http://toshitada-ishii-flect.github.io/pages/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
-
+exclude: [".sass-cache"]
 # Build settings
 markdown: kramdown
